@@ -1,0 +1,1 @@
+X=MsgBox("This Is Fruit Ninja, Standard Rules Apply. Enjoy!",4+64,"README")
